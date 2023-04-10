@@ -43,6 +43,6 @@ if (isset($_POST['save'])) {
 
 mysqli_close($conn);
 ?>
-<button onclick="window.location.href='https://steinbergkarina.ikt.khk.ee/veebiarendus/haaletus/'">Tagasi pealehele</button>
+<button onclick="window.location.href='https://partelsandra.ikt.khk.ee/GL2/'">Tagasi pealehele</button>
 </body>
 </html>
