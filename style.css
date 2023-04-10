@@ -1,17 +1,17 @@
 /* Body */
 body {
-    background-color: #c6e2ff;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-image: ('https://images.pexels.com/photos/2361952/pexels-photo-2361952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    font-family: Verdana, sans-serif;
   }
   
   /* Form */
   form {
     background-color: #f9f9f9;
-    border: 2px solid #92c0e9;
+    border: 2px solid #ff834f;
     padding: 20px;
     width: 400px;
     margin: auto;
-    border-radius: 10px;
+    border-radius: 15px;
   }
   
   /* Form Input Fields */

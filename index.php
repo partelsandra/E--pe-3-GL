@@ -44,8 +44,8 @@ var timer = setInterval(function() {
     <br>
     Otsus:<br>
     <select name="Otsus">
-      <option value="poolt">Poolt</option>
-      <option value="vastu">Vastu</option>
+      <option value="Poolt">Poolt</option>
+      <option value="Vastu">Vastu</option>
     </select><br><br>
     <input type="submit" name="save" value="submit">
     <p id="countdown">Hääletamine lõpeb: <span id="countdown"></span></p>
@@ -92,8 +92,8 @@ var timer = setInterval(function() {
         <td><?php echo $row["Haaletanute_arv"]; ?></td>
         <td><?php echo $row["H_alguse_aeg"]; ?></td>
         <td><?php echo $row["H_lopu_aeg"]; ?></td>
-        <td><?php echo $row["poolt"]; ?></td>
-        <td><?php echo $row["vastu"]; ?></td>
+        <td><?php echo $row["Poolt"]; ?></td>
+        <td><?php echo $row["Vastu"]; ?></td>
       </tr>
     <?php
       $i++;
