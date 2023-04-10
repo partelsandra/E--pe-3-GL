@@ -1,0 +1,109 @@
+/* Body */
+body {
+    background-color: #c6e2ff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  /* Form */
+  form {
+    background-color: #f9f9f9;
+    border: 2px solid #92c0e9;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  
+  /* Form Input Fields */
+  input[type="text"], select {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  /* Submit Button */
+  input[type="submit"] {
+    background-color: #92c0e9;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Table */
+  table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 90%;
+  }
+  
+  th {
+    background-color: #92c0e9;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  /* Countdown Timer */
+  #countdown-timer {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+    color: #92c0e9;
+    font-weight: bold;
+  }
+  
+  /* Header */
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    color: #92c0e9;
+    margin-top: 50px;
+  }
+  
+  /* Update Form */
+  #update-form {
+    display: inline-block;
+    margin: 0;
+  }
+  
+  /* Update Button */
+  #update-button {
+    background-color: #92c0e9;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Delete Button */
+  #delete-button {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Shrek Image */
+  .shrek-image {
+    display: block;
+    margin: 50px auto;
+    width: 300px;
+  }
